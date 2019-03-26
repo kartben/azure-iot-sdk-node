@@ -1,5 +1,5 @@
 {
-  "azure-iot-common": "1.9.4",
+  "azure-iot-common": "1.9.5",
   "azure-iot-amqp-base": "2.2.4",
   "azure-iot-http-base": "1.9.4",
   "azure-iot-mqtt-base": "1.9.4",
