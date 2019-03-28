@@ -7,7 +7,7 @@
   "main": "index.js",
   "typings": "index.d.ts",
   "dependencies": {
-    "azure-iot-common": "1.9.4",
+    "azure-iot-common": "1.9.5",
     "azure-iot-device": "1.9.4",
     "azure-iot-mqtt-base": "1.9.4",
     "debug": "^4.1.1",

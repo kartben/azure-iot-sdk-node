@@ -7,7 +7,7 @@
   "main": "device.js",
   "typings": "device.d.ts",
   "dependencies": {
-    "azure-iot-common": "1.9.4",
+    "azure-iot-common": "1.9.5",
     "azure-iot-http-base": "1.9.4",
     "azure-storage": "^2.10.2",
     "debug": "^4.1.1",
