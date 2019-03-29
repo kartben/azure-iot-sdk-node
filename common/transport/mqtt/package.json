@@ -9,18 +9,18 @@
   "dependencies": {
     "azure-iot-common": "1.9.4",
     "debug": "^4.1.1",
-    "machina": "^4.0.1",
+    "machina": "^4.0.2",
     "mqtt": "^2.18.8"
   },
   "devDependencies": {
-    "@types/node": "8.9.4",
-    "chai": "^4.1.2",
-    "es5-shim": "^4.5.9",
+    "@types/node": "^9.3.0",
+    "chai": "^4.2.0",
+    "es5-shim": "^4.5.12",
     "istanbul": "^0.4.5",
     "mocha": "^5.2.0",
     "sinon": "^7.2.7",
-    "tslint": "^5.1.0",
-    "typescript": "2.5.2"
+    "tslint": "^5.9.1",
+    "typescript": "2.9.2"
   },
   "scripts": {
     "lint": "tslint --project . -c ../../../tslint.json",
